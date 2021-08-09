@@ -1,0 +1,8 @@
+L'avventuriero completa la missione con 5 punti vita portando con se' 97 monete.
+Il suo percorso e' stato il seguente:
+Ingresso -> SalaDelFuoco
+SalaDelFuoco -> ViaDellAscensione
+ViaDellAscensione -> AntroDiBahamut
+AntroDiBahamut -> Naos
+Naos -> Sacrario
+Sacrario -> Uscita
